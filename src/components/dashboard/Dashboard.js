@@ -19,8 +19,8 @@ return (
             <h4>
               <b>Hello,</b> {user.name.split(" ")[0]}
               <p className="flow-text grey-text text-darken-1">
-                You are logged into a non-public page of a full-stack MERN
-                experimental login app. Hooray!
+                You are logged into a non-public page of my full-stack
+                experimental login app. Hooray! 
               </p>
             </h4>
             <button
