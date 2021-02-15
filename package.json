@@ -21,14 +21,14 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
+//    "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "client-install": "npm install",
     "client": "npm start",
     "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix . && npm run build --prefix ."
   },
-  "proxy": "https://login-core.herokuapp.com",
+//  "proxy": "https://login-core.herokuapp.com",
   "eslintConfig": {
     "extends": [
       "react-app",
